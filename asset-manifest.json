@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/order-food-14lesson.git/static/css/main.1944df93.css",
+    "main.js": "/order-food-14lesson.git/static/js/main.e81daf8a.js",
+    "static/media/image.jpg": "/order-food-14lesson.git/static/media/image.c40a9167dc81752e7fb1.jpg",
+    "static/media/basket-icon.svg": "/order-food-14lesson.git/static/media/basket-icon.c36faa3efca4c2a3b7311ff4f8994381.svg",
+    "index.html": "/order-food-14lesson.git/index.html",
+    "static/media/plus-icon.svg": "/order-food-14lesson.git/static/media/plus-icon.615aae21874dd2f3df76a1020f05906d.svg",
+    "static/media/minus.svg": "/order-food-14lesson.git/static/media/minus.c485e6fde4d19ac2fd0cec0d4c7d72fa.svg",
+    "main.1944df93.css.map": "/order-food-14lesson.git/static/css/main.1944df93.css.map",
+    "main.e81daf8a.js.map": "/order-food-14lesson.git/static/js/main.e81daf8a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1944df93.css",
+    "static/js/main.e81daf8a.js"
+  ]
+}
