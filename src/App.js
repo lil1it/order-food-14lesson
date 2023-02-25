@@ -6,7 +6,7 @@ import Summary from "./components/summary/Summary";
 import { BasketProvider } from "./store/BasketContext";
 function App() {
   return (
-    <div className="App">
+    <div className="AppStyle">
       <BasketProvider>
         <Header />
         <Content>
